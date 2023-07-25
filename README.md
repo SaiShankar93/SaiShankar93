@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saishankar93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saishankar93" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai-shankar-ab013b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-shankar-ab013b248" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-shankar-punna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-shankar-punna" height="30" width="40" /></a>
 <a href="https://instagram.com/_sai_shankar_punna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sai_shankar_punna_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saishankar150521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saishankar150521" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sai_shankar_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai_shankar_93" height="30" width="40" /></a>
