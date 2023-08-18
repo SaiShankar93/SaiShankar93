@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋! I am Sai Shankar.<br>A passionate Web Developer from India</h2>
 
 ###
-
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SaiShankar93.SaiShankar93&left_color=steelblue&right_color=darkcyan&left_text=Profile Views"  />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=SaiShankar93.SaiShankar93&left_color=steelblue&right_color=darkcyan&left_text=Profile Views"  /> -->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishankar93&label=Profile%20views&color=0e75b6&style=flat" alt="saishankar93" /> </p>
 </div>
 
 ###
