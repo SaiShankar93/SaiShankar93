@@ -112,9 +112,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SaiShankar93/SaiShankar93/output/snake.svg" alt="Snake animation" />
-
-###
