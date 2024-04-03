@@ -19,7 +19,7 @@
 # 💫 About Me:
 🔭  I’m currently exploring Full stack development (MERN) .<br>👯 I’m looking to collaborate on Web development and DSA.<br>🌱 I’m currently learning Flask .<br>💬 Ask me about Web Dev, DSA .
 
-
+<br clear="both">
 
 ## My Holopin Badges!! 
 [![@Sai Shankar's Holopin board](https://holopin.me/saishankar93)](https://holopin.io/@saishankar93)
