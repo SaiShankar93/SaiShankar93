@@ -17,7 +17,7 @@
 
 
 # 💫 About Me:
-🔭  I’m currently exploring Full stack development (MERN) .<br>👯 I’m looking to collaborate on Web development and DSA.<br>🌱 I’m currently learning Flask .<br>💬 Ask me about Web Dev, DSA .
+🔭  I’m currently exploring Blockchain Development .<br>👯 I’m looking to collaborate on Web3 Projects.<br>🌱 I’m currently learning Solidity .<br>💬 Ask me about Web Dev, DSA ,App dev .
 
 <br clear="both">
 
