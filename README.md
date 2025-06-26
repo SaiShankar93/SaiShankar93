@@ -17,7 +17,7 @@
 
 
 # 💫 About Me:
-🔭  I’m currently exploring Blockchain Development .<br>👯 I’m looking to collaborate on Web3 Projects.<br>🌱 I’m currently learning Solidity .<br>💬 Ask me about Web Dev, DSA ,App dev .
+🔭  I’m currently Juggling with LLM's .<br>👯 I’m looking to collaborate Full stack Ai projects.<br>🌱 I’m currently learning Langchain,qdrant and bit of cloud .<br>💬 Ask me about Web Dev, DSA ,App dev .
 
 <br clear="both">
 
