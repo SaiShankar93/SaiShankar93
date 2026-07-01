@@ -2,7 +2,6 @@
 
 ###
 <div align="left">
-<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=SaiShankar93.SaiShankar93&left_color=steelblue&right_color=darkcyan&left_text=Profile Views"  /> -->
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishankar93&label=Profile%20views&color=0e75b6&style=flat" alt="saishankar93" /> </p>
 </div>
 
@@ -63,18 +62,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=SaiShankar93&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaiShankar93&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiShankar93&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Leetcode Badges !
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sai_shankar_93&theme=dracula)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaiShankar93&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaiShankar93&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
